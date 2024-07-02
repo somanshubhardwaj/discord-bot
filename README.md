@@ -17,6 +17,11 @@ Before setting up the bot, ensure you have the following installed:
 - Discord account and server
 - Discord bot token
 
+## For Relpit
+
+- Go to [Repl](https://replit.com/@somanshubh/discord-bot?v=1)
+- add TOKEN = your discord token to secrets
+
 ## Installation
 
 1. Clone the repository or download the code:
