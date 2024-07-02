@@ -22,7 +22,7 @@ Before setting up the bot, ensure you have the following installed:
 1. Clone the repository or download the code:
 
    ```bash
-   git clone https://github.com/somanshybhardwaj/discord-bot.git
+   git clone https://github.com/somanshubhardwaj/discord-bot.git
    cd discord-bot
     ```
 
